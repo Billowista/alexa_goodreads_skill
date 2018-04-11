@@ -1,0 +1,14 @@
+{
+  "name": "alexa_goodreads_skill",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa Skill to manage your Goodreads books and contacts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin R Wells",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
